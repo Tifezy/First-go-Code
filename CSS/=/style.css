@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+
+
+.title{
+    margin: -27px 0 0 140px;
+    color: lightblue;
+    font-weight: 700;
+} 
+
+.list{
+    display: flex;
+    float:right;
+    list-style: none;
+    margin: -29px 44px 0 0;
+}
+
+.lists li{
+
+}
+
+#desc{
+ text-align: center;
+ font-size: 65px;
+ color: white;
+ align-items: center;
+}
+
+ button{
+    color: white;
+    background-color: lightgreen;
+    border: none;
+    height: 50px;
+    width:130px;
+    border-radius:5px ;
+    font-size: 20px;
+    margin: 30px 0 0 35rem;
+ }
+
+ button:hover{
+   color:lightgreen;
+   background-color: rgba(0, 128, 0, 0);
+ }
+
+   
